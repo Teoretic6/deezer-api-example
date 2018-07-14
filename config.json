@@ -1,0 +1,6 @@
+{
+  "app_id": "<YOUR APP ID>",
+  "client_secret": "<YOUR CLIENT SECRET>",
+  "redirect_uri": "http://127.0.0.1:5000/callback",
+  "user_id": "<YOUR DEEZER USER ID>"
+}
